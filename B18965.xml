@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration to all his loving subjects, of his true intentions in advancing lately to Brainceford</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18965</idno><idno type="EEBO-CITATION">12640712</idno>
+  <idno type="VID">131582</idno>
+  <idno type="EEBO-PROQUEST">2248583081</idno>
+  
+            <idno type="STC">Wing C2246A</idno>
+            <idno type="STC">ESTC R3065</idno>
+            <idno type="OCLC">12640712</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 131582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 266:E242, no 25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration to all his loving subjects, of his true intentions in advancing lately to Brainceford</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield, printer to the universitie,</publisher>
+                  <pubPlace>Printed ... at Oxford :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes the text of "To the Kings most Excellent Majesty the humble petition of the Lords and Commons ...", "His Majesties answer ...", and "His Majesties message of the 12 of November".</note>
+                  <note>Also published with title: His Majesties declaration ... shewing his true intentions ...</note>
+                  <note>Two editions of this title were issued by the same printer in the same year.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:131582:1"/>
+            <p>HIS MAJESTIES DECLARATION To all His Loving Subjects, OF His true Intentions in advancing lately TO BRAINCEFORD.</p>
+            <p>PRINTED By His MAJESTIES Command AT OXFORD, BY LEONARD LICHFIELD Printer to the UNIVERSITIE. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="2" facs="tcp:131582:2"/>
+            <head>❧ His Majesties Declaration to all His loving Subjects of His true Intentions in advancing lately to BRAINCEFORD.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough Our Reputation be most dear to Us, and especially in those Cases wherein the truth of Our most solemn Professions (and by consequence of Our Christianity) is questioned, yet it is not only for the Vindication of that, and to clear Our Self from such Aspersions, but withall to pre<g ref="char:EOLhyphen"/>serve Our Subjects in their just Esteem of, and Duty to Us, and from being engaged into Crimes and Dangers by those malitious reports, so spightfully framed and cunningly spread against Us, concerning Our late advancing to <hi>Brainceford,</hi> That we have resolved to publish this Our following Declaration.</p>
+            <p>AT <hi>Colebrook,</hi> on Friday the 11 of <hi>November,</hi> We received a Petition from both Our Houses of Parliament, by the Earl of <hi>Northumberland,</hi> the Earl of <hi>Pembroke</hi> and <hi>Montgomery,</hi> the Lord <hi>Wenman,</hi> M. <hi>Perpoint,</hi> and Sir <hi>Iohn Hip<g ref="char:EOLhyphen"/>pesly;</hi> And indeed We were well pleased to see it so much liker a Petition, then the other Papers We had often of late received under that name, and return'd to it the next day so gracious an Answer, that we assure Our selves could not but be very satisfactory to all that were truely lovers of Peace. The Copies of both which do here follow.</p>
+         </div>
+         <div type="petition">
+            <head>
+               <hi>To the Kings most Excellent Majesty:</hi> The humble Petition of the Lords and Commons now assembled in PARLIAMENT.</head>
+            <p>WE Your Majesties most loyall Subjects, the Lords and Commons in Parliament assembled, being affected with a deep and piercing sense of the miseries of this Kingdom, and of the dangers to Your Majesties Person, as the present Affairs now stand, and much quickned therein with the sad consideration of the great effusion of Bloud at the late Battle, and of the losse of so many eminent Persons; And farther weighing the Ad<g ref="char:EOLhyphen"/>dition of losse, miscry, and danger to Your Majesty and Your Kingdom, which must en<g ref="char:EOLhyphen"/>sue, if both Armies should again joyn in another Battle, as without Gods especiall blessing, and Your Majesties concurrence with Your Houses of Parliament, will not probably be avoided.</p>
+            <pb n="3" facs="tcp:131582:2"/>
+            <p>We cannot but believe, that a sutable Impression of tendernesse and compassion is wrought in Your Majesties Royall Heart, being Your Self an eye-witnesse of the bloudy and sorrowfull destruction of so many of Your Subjects, And that Your Majesty doth apprehend what diminution of Your Own Power and Greatnesse will follow, And that all Your Kingdoms will thereby be so weakned, as to become subject to the Attempts of any ill affected to this State. In all which respects, we assure our selves, that Your Majesty will be inclined graciously to accept this our humble Petition, that the misery and desola<g ref="char:EOLhyphen"/>tion of this Kingdom, may be speedily removed and prevented; For the effecting where<g ref="char:EOLhyphen"/>of, we most humbly beseech Your Majesty to appoint some convenient place, not farre from the City of <hi>London,</hi> where Your Majesty will be pleased to reside, untill Com<g ref="char:EOLhyphen"/>mittees of both Houses of Parliament may attend Your Majesty with some Propositions for the removall of these bloudy Distempers and Distractions, and setling the State of the Kingdom in such a manner, as may conduce to the Preservation of Gods true Religi<g ref="char:EOLhyphen"/>on, Your Majesties Honour, Safety, and Prosperity, and to the Peace, Comfort, and Secu<g ref="char:EOLhyphen"/>rity of all Your People.</p>
+         </div>
+         <div type="response_to_petition">
+            <head>His Majesties Answer to the aforesaid Petition.</head>
+            <p>VVE take God to witnesse how deeply We are affected with the miseries of this Kingdom, which heretofore We have stroven, as much as in Us lay, to prevent, It being sufficiently known to all the world, That as We were not the first that took up Arms, so We have shewed Our readinesse of composing all things in a faire way by Our severall offers of Treaty, and shall be glad now at length to finde any such Inclinations in others, The same tendernesse to avoid the Destruction of Our Subjects (whom We know to be Our greatest strength) which would alwayes make Our greatest Victories bitter to Us, shall make Us willingly hearken to such Propositions whereby these bloudy distempers may be stopped, and the great distractions of this Kingdom settled to Gods glory, Our Honour, and the welfare and flourishing of Our People; And, to that end, shall re<g ref="char:EOLhyphen"/>side at Our own Castle at <hi>Windsore</hi> (if the Forces there shall be removed) till Committees may have time to attend Us with the same (which, to pre<g ref="char:EOLhyphen"/>vent the Inconveniences that will intervene, We wish may be hastned) and shall be ready there (or if that be refused Us) at any place where We shall be, to receive such Propositions as aforesaid from both Our Houses of Parliament. Do you your Duty, We will not be wanting to Ours; God of his mercy give a blessing.</p>
+            <p>BUt the same night after the Messengers were gone, certain Information was brought unto Us, That the same day the Earl of <hi>Essex</hi> had drawn
+<pb n="4" facs="tcp:131582:3"/> his forces with great store of Ordinance out of <hi>London</hi> towards Us, upon which a Councell of Warre being present, and We having there considered, upon debate, Our present Condition, That being already almost surrounded by his forces, some at <hi>Windsore,</hi> some at <hi>Kingston,</hi> and some at <hi>Acton,</hi> If We suffered the Remainder to possesse <hi>Brainceford,</hi> We should be totally hemm'd in, and Our Army deprived of all convenience of either moving or sub<g ref="char:EOLhyphen"/>sisting. Yet how necessarily soever it appear'd, We could not obtain Our own Consent to advance towards <hi>Brainceford,</hi> and either prepossesse it, or dispossesse them of it, till We had satisfied Our selves that it was as lawfull as necessary, and fully weighed all, that not only reason, but malice it self, (which We knew to be very watchfull upon Our Actions) could object against it. We consider first, that it could not reasonably be esteem'd an Aversion from Peace, and an Intention to interrupt the Treaty then in ex<g ref="char:EOLhyphen"/>pectation, Since on the other side We had cause to beleeve by the former rejection of Our offers of Treaty, when We were suppos'd to be in no condition of strength, That if We would not thus preserve Our Selves from being so encompass'd as to come into their Powers, the very possibi<g ref="char:EOLhyphen"/>lity of a Treaty would immediately vanish. We considered next, that muchlesse could it be interpreted any Breach of Faith, since willingnesse to receive Propositions of Treaty was never held to amount to a suspension of Arms; Since otherwise We must (because mention of a Treaty had been once made) by the same Logick have been bound not to hinder them to en<g ref="char:EOLhyphen"/>compasse Us on all parts to <hi>Colebrook</hi> Towns end; Since no word to that purpose (of any suspension) was in Our Answer; Nay, since in that (by wishing their Propositions might be hastned, to prevent the Inconvenien<g ref="char:EOLhyphen"/>ces which would intervene) We implyed, That by this Arms were not sus<g ref="char:EOLhyphen"/>pended; And since their own Votes of proceeding vigorously notwith<g ref="char:EOLhyphen"/>standing the Petition, and their now Actions in sending after their Messen<g ref="char:EOLhyphen"/>gers great store of forces with Ordinance so neer to Us (having before girt Us in on all others parts, and sent men and Ordinance to <hi>Kingston</hi> after the safe Conduct asked of Us) implyed the same.</p>
+            <p>Being resolved upon these Reasons, That this advancing was necessary and just, We were not yet satisfied till We had endeavoured the same day (though the interruptions of shooting stopt up the way till the next) to sa<g ref="char:EOLhyphen"/>tisfie Our Parliament and People of the same, and that Peace was still Our desire, We to that end directed a Message by <hi>Iohn White</hi> Esquire, which was so received, that his danger of being put to death for bringing it, and the imprisonment of him and the Trumpeter that went with him in the Gate-house, shew'd that the very Law of Nations was by some no more consider'd <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen all other Laws had been before. A Copy of which Message hereafter <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ows, to sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w how little temptation the matter of that gave them for <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> usuage.</p>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:131582:3"/>
+            <head>His Majesties Message of the 12. of <hi>November.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the last night being the <hi>11.</hi> of <hi>November,</hi> after the departure of the Committee of both Our Houses with Our gracious Answer to their Petition, We received certain Information (having till then heard nothing of it, either from the Houses Committee or otherwise) That the Lord of <hi>Essex</hi> had drawn his forces <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of <hi>London</hi> towards Us, which hath necessitated Our sudden Resolution to march with Our forces to <hi>Brainceford;</hi> We have thought hereby fit to signifie to both Our Houses of Parliament, That We are no lesse desirous of the Peace of the Kingdom, Then We exprest in Our aforesaid Answer; The Propositions for which We shall willingly receive where ever We are, And desire (if it may be) to receive them at <hi>Brainceford</hi> this night, or early to morrow morning, that all possible speed may be made in so good a work, and all inconveniences, otherwise likely to intervene, may be avoided.</p>
+            <p>ANd to justifie yet further, That Our Intention was no other then was here profest, assoon as We were informed that the Earl of <hi>Essex</hi> his forces were departed from <hi>Kingston,</hi> before any apparance or notice of fur<g ref="char:EOLhyphen"/>ther forces from <hi>London</hi> (Our end of not being inclosed being obtained) We gave orders to quit <hi>Brainceford,</hi> and to march away, and possesse that place.</p>
+            <p>We cannot but make one Argument more of the truth of Our Profession, That this was all Our end, and that We had not the least thought, by so advancing, to surprise and sack <hi>London</hi> (which the malignant party would infuse into that Our City) And that is, That probably God Almighty would not have given such a Blessing to Our Journey, as to have assisted Us so both by Land and Water, as with lesse then a third part of Our foot, and with the losse but of ten men, to beat two of their best Regiments out of both <hi>Braincefords,</hi> for all the great advantage of their works in them, to kill him who commanded in chief, and kill and drown many others, to take five hundred Prisoners, more Arms, eleven Colours, and good store of Ammunition, fifteen Peeces of Ordinance (whereof We sunk most that We brought not away) and then unfought with, and unoffered at, neerer then by Ordinance, to march away, notwithstanding the great disadvantage of Our Forces by the difficulties of the Passages, if He who is the searcher of all hearts and truth it self had not known the truth of Our Professions, and the Innocence of Our Heart, And how farre We were from deserving those horrid Accusations of falsehood and Treachery cast so point blank
+<pb n="6" facs="tcp:131582:4"/> upon Our own Person, That it would amase any man to see them suffered to be Printed in Our City of <hi>London,</hi> if any thing of that kinde could be a wonder after so many of the same, and how really they desire Accommoda<g ref="char:EOLhyphen"/>tion, who upon this have Voted they will have none.</p>
+            <p>These Our Reasons for this Action, this Our satisfaction sent for it, and this Blessing of God's upon it, will (We doubt not) cleer Us to all indiffe<g ref="char:EOLhyphen"/>rent persons both of the Jesuiticall Counsells, and the personall Treachery to which some have presumed so impudently to impute it; And God so blesse Our future Actions as We have delivered the truth of this.</p>
+         </div>
+         <div type="text">
+            <head>The Answer of both Houses of Parliament to His Majesties Message of the 12 of <hi>November.</hi>
+            </head>
+            <p>TO Your Majesties Message of the 12 of this Month of <hi>November,</hi> We the Lords and Commons in Parliament, do make this humble Answer; That this Message was not delivered to us till Munday the 14. We thought it a strange Introduction to Peace, that Your Majesty should send Your Ar<g ref="char:EOLhyphen"/>my to beat us out of our Quarters at <hi>Brainceford,</hi> and then appoint that place to receive our Propositions; which, yet it plainly appears, Your Majesty in<g ref="char:EOLhyphen"/>tended not to receive, till You had first tryed whether You could break thorow the Army raised for the defence of this Kingdom and Parliament, and take the City, being unprovided and secure, in expectation of a fair Trea<g ref="char:EOLhyphen"/>ty made to secure the City. If herein Your Majesty had prevailed, after You had destroyed the Army, and mastered the City, it is easie to imagine, what a miserable Peace we should have had: and whether those Courses be sutable to the Expressions Your Majesty is pleased to make in Your Answer to our Petition, of Your earnestnesse to avoid any further effusion of blood, let God and the World judge.</p>
+            <p>As for our Proceedings, they have in all things been answerable to our Professions: We gave directions to the Earl of <hi>Essex</hi> to draw the Army un<g ref="char:EOLhyphen"/>der his Command out of the City and Suburbs, before we sent any Message to Your Majesty; so that part of it was inquartered at <hi>Brainceford,</hi> before the Committee returned with Your Answer: and immediately upon the receipt thereof, that very morning Order was taken that the Souldiers should exer<g ref="char:EOLhyphen"/>cise no Act of Hostility against any of Your Majesties People. We sent a Letter by Sir <hi>Peter Killigrew</hi> to know Your Majesties pleasure, Whether You intended the like forbearance of hostility; But the fury of Your Souldiers thirsting after bloud and spoil, prevented the delivery of the Letter. For
+<pb n="7" facs="tcp:131582:4"/> coming upon Saturday in his way towards Your Majesty as farre as <hi>Braince<g ref="char:EOLhyphen"/>ford,</hi> he found them in fight there and could passe no further. God who sees our Innocency, and that we have no Aymes, but at his Glory and the pub<g ref="char:EOLhyphen"/>like Good, will (we hope) free Your Majesty from those destructive Coun<g ref="char:EOLhyphen"/>sells, who labour to maintain their own power by hloud and Rapine, and blesse our Endeavours, who seek nothing, but to procure and establish the Honour, Peace and Safety of Your Majesty, and Kingdoms, upon the sure foundation of Religion and Justice.</p>
+         </div>
+         <div type="text">
+            <head>To the Answer of both Houses of Parliament to His Majesties Message of the 12 of <hi>November,</hi> His Majesty makes this Reply.</head>
+            <p>THat His Message of the <hi>12,</hi> though not received by them till the <hi>14,</hi> was sent to them first upon the same day, upon which it was dated, and meeting with stops by the way, was again sent upon the <hi>13,</hi> and taken upon that day at ten in the morning by the Earl of <hi>Essex,</hi> and though not to him directed, was by him opened, so the slownesse of the delivery is not so strange as the stop of the Letter said to be sent by Sir <hi>Peter Killigrew,</hi> which His Majesty hath not yet received, but concludes from the matter expressed to have been contain'd in that Letter (to wit, to know his Pleasure, whether He intended the forbearance of Hostility) and by the Command of such for<g ref="char:EOLhyphen"/>bearance said to be sent to the Lord of <hi>Essex</hi> his Army, that no such forbearance was al<g ref="char:EOLhyphen"/>ready concluded, &amp; consequently neither had his Majesty cause to suppose, that he should take any of their forces unprovided, and secure in expectation of a faire Treaty, neither could any Hostile Act of His Majesties Forces have been a course unsutable to His expressions, much lesse could an endeavour to prepossesse (for so He hoped He might have done) that Place, which might have stopt the farther March of those Forces to<g ref="char:EOLhyphen"/>wards Him, (which, for ought appear'd to Him, might as well have been intended to <hi>Colebrook</hi> as to <hi>Brainceford</hi>) and by that the further effusion of Bloud, deserve that stile.</p>
+            <p>His Majesty farther conceives, That the Printing so out of time of such a Decla<g ref="char:EOLhyphen"/>ration, as their <hi>Reply</hi> to his <hi>Answer</hi> to theirs of the <hi>26</hi> of <hi>May,</hi> but the day before they Voted the Delivery of their Petition, and the March of the Earl of <hi>Essex</hi> his Forces to <hi>Brainceford</hi> so neer to His Majesty, when the <hi>Committee</hi> at the same time attended Him with a Petition for a Treaty, the Earl of <hi>Essex</hi> being before possest of all the other Avenues to his Army, by his Forces at <hi>Windsore, Acton,</hi> and <hi>King<g ref="char:EOLhyphen"/>ston,</hi> was a more strange introduction to Peace, then for His Majesty not to suffer Himself to be coopt up on all sides, because a Treaty had been mention'd, which was so really, and so much desired by His Majesty, that this Proceeding seems to Him pur<g ref="char:EOLhyphen"/>posely by some intended to divert (which it could not do) that His Inclination.</p>
+            <pb n="8" facs="tcp:131582:5"/>
+            <p>That His Majesty had no intention to master the City by so advancing, besides His profession, which (how meanly soever they seem to value it) He conceives a sufficient Argument, (especially being only oppos'd by suspicions and surmises) may appear by His not pursuing His Victory at <hi>Brainceford,</hi> but giving orders to His Army to March away to <hi>Kingston</hi> as soon as he heard that place was quitted, before any notice or Appearance of farther Forces from <hi>London;</hi> Nor could he finde a better way to satisfie them before hand, that he had no such intention, but that his desire of Peace, and of Propositions, that might conduce to it, still continued, then by that Message of the <hi>12,</hi> for which care of his he was requited by such a Reception of his Message and Messenger, as was contrary at once both to duty, civility, and the very Customes, and Law of Warre, and Nations, and such as theirs (though after this Provocation▪) hath not found from him.</p>
+            <p>His Majesty wonders that his Souldiers should be charged with their sting after Bloud, who took above five hundred Prisoners in the very heat of the fight, his Maje<g ref="char:EOLhyphen"/>stie having since dismissed all the common Souldiers, and entertain'd such as were willing to serve him, and required only from the rest an Oath not to serve against him; And his Majesty supposes such most apt and likely to maintain their Power by Bloud and Rapine, who have only got it by Oppression and Injustice; That his is vested in him by the Law, and by that only (if the destructive Counsells of others would not hinder such a Peace, in which that might once again be the Universall Rule, and in which Religion and Justice can only flourish) he desires to maintain it. And if Peace were equally desired by them, as it is by his Majesty, he conceives it would have been proper to have sent him such a Paper as should have contained just Propositions of Peace, and not an unjust Accusation of his Counsells, Proceedings and Person. And his Majesty intends to March to such a Distance from his City of <hi>London,</hi> as may take away all Pretence of Apprehension from his Army, that might hinder them in all Security from yet preparing them to present to him, and there will be ready either to receive them, or to end the pressures, and miseries, which his Subjects to his great Grief suffer through this Warre, by a Present Battle.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
